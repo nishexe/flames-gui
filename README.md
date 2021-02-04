@@ -1,5 +1,5 @@
 # flames-gui
-FLAMES game gets an lovey GUI. Screenshots below.
+FLAMES game gets a lovey GUI. Screenshots below.
 
 
 
